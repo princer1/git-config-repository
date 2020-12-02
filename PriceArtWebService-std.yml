@@ -1,0 +1,12 @@
+#Application Config
+application:
+  listino: 1
+  sconto: 0
+
+#actuator info
+info:
+  assistena:
+    nome: "PINCO PALLINs"
+  nome:
+    nome-app: "Price Web Service -  Versione autenticazione jwt"
+  profilo: "Standard con Sconto"
